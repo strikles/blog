@@ -33,3 +33,5 @@ projects: []
 07:57 - Forced to feel nociceptive stimuli focused on my anus as I am forced to hear idiotic questions mocking me regarding "the meaning of the holy trinity" in christian faith.
 
 12:44pm - Forced to feel high frequency and high amplitude stimuli focused on my palms of hands and feet to induce hyperhidrosis as an illegal sentence of social seclusion along with being forced to live with hygiene standards below my own.
+
+12:48am - Forced to hear and feel the sonic payload of someone spitting as an illegal sentence issued by the Portuguese Police and the Dutch Police (on New Years eve 2017) focused on my inner ear and the entire cranial box modulated with high amplitude and distortion in order to produce a burst that results in loss of motor coordination, violation of my right to thought continuity along with forgetting what i am doing and motor/nervous spasms to create a cumulative effect and force entry into a psychotic state.
