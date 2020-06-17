@@ -28,10 +28,12 @@ image:
 projects: []
 ---
 
-06:30am - Tentativa de me forçarem a cortar a orelha direita assim que abri os olhos com payloads oscilatórios a simular masturbação combinado com payloads de caracter genital focados no meu perinio, combinado com ser forçado a ouvir e sentir um payload de ruido metálico focado na minha caixa craniana e ouvidos para forçar suicidio.
+06:30 am - Attempt to force me to cut my right ear as soon as I opened my eyes with oscillatory payloads to simulate masturbation combined with genital character payloads focused on my perinium, combined with being forced to hear and feel a metallic noise payload focused on my skull and ears to force suicide.
 
 07:57 - Forced to feel nociceptive stimuli focused on my anus as I am forced to hear idiotic questions mocking me regarding "the meaning of the holy trinity" in christian faith.
 
 12:44pm - Forced to feel high frequency and high amplitude stimuli focused on my palms of hands and feet to induce hyperhidrosis as an illegal sentence of social seclusion along with being forced to live with hygiene standards below my own.
 
-12:48am - Forced to hear and feel the sonic payload of someone spitting as an illegal sentence issued by the Portuguese Police and the Dutch Police (on New Years eve 2017) focused on my inner ear and the entire cranial box modulated with high amplitude and distortion in order to produce a burst that results in loss of motor coordination, violation of my right to thought continuity along with forgetting what i am doing and motor/nervous spasms to create a cumulative effect and force entry into a psychotic state.
+12:48pm - Forced to hear and feel the sonic payload of someone spitting as an illegal sentence issued by the Portuguese Police and the Dutch Police (on New Years eve 2017) focused on my inner ear and the entire cranial box modulated with high amplitude and distortion in order to produce a burst that results in loss of motor coordination, violation of my right to thought continuity along with forgetting what i am doing and motor/nervous spasms to create a cumulative effect and force entry into a psychotic state.
+
+14:06pm - Whilst I was outside, noxious payloads focused on my genitals combined with high frequency oscillatory noxious stimuli to induce hyperhidrosis in an attempt to force genital castration via continuous delivery on noxious stimuli to create a cumulative effect forcing me to return hiome as an illegal sentence.
