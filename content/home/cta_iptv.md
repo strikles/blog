@@ -17,7 +17,7 @@ hero_media = "invisiblepeople.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "gray"
+  color = "white"
   
   # Background gradient.
   #gradient_start = "#4bb4e3"
