@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: /IGAI/QE2025972.pdf
 url_code:
 url_dataset:
 url_poster:
