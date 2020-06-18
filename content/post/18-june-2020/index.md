@@ -85,3 +85,5 @@ projects: []
 20:51pm - Attempt to force me to cut off my right ear as a form of degradation/humiliation in reference to Van Gogh, for choosing to live in the Netherlands instead of allowing the Portuguese fascist scum torturing me to force me to commit suicide as a transsexual in front of my mother.
 
 21:54pm - Attempt to force castration via noxious stimuli focused on my genitals.
+
+21:58pm - Attempt to force me to commit suicide by stabbing myself in the ear with a screwdriver by forcing me to feel repetitive nociceptive stimuli in my left inner ear.
