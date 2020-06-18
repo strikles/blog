@@ -63,3 +63,7 @@ projects: []
 00:28 - Forced to hear and feel noxious oscillatory stimuli payloads focused on my inner ears simulating the rhythm of masturbation to create a negative cumulative effect combined with noxious payloads focused on my genitals so that I am forced to type with 2 fingers complaining about the torture procedure me and my family are subjected to whilst a large number of people watches satisfy the deep and dark emasculation desires of Jasper Kums (Eenvoudmedia) who spread all over Amsterdam (via TBWA - Amsterdam) several rumors, including that I don't have what it takes to be a developer since I can't touch-type with these people sabotaging every attempt at self-improvement or learning in order to provide adequate content for their grand spectacle of human degradation.
 
 00:29am - attempt to force castration via noxious stimuli focused on my genitals.
+
+00:30am - Attempt to force me to cut off my right ear as a form of degradation/humiliation in reference to Van Gogh, for choosing to live in the Netherlands instead of allowing the Portuguese fascist scum torturing me to force me to commit suicide as a transsexual in front of my mother.
+
+00:30am - attempt to force castration via noxious stimuli focused on my genitals.
