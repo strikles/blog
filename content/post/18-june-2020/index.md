@@ -67,3 +67,5 @@ projects: []
 20:58pm - Forced to hear and feel noxious oscillatory stimuli payloads focused on my inner ears simulating the rhythm of masturbation to create a negative cumulative effect combined with other noxious payloads.
 
 21:02pm - Forced to hear and feel noxious oscillatory stimuli payloads focused on my inner ears simulating the rhythm of masturbation to create a negative cumulative effect combined with other noxious payloads.
+
+21:07pm - Forced to hear high amplitude noise stimuli focused on my ears with vocal payloads synthesized upon byting/chewing actions in order to sabotage my meal and force me into a psychotic episode instead.
