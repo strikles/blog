@@ -27,6 +27,12 @@ subtitle = ""
   description = ""
 
 [[feature]]
+  icon = "hat-wizard"
+  icon_pack = "fas"
+  name = "Algorithmic Game Theory"
+  description = ""
+
+[[feature]]
   icon = "space-shuttle"
   icon_pack = "fas"
   name = "Dynamical Systems"

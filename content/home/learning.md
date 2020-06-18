@@ -15,9 +15,15 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "aws"
+  icon = "project-diagram"
   icon_pack = "fab"
-  name = "AWS"
+  name = "Algorithms & data Structures"
+  description = ""
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Jupyter"
   description = ""
 
 [[feature]]
@@ -27,9 +33,9 @@ subtitle = ""
   description = ""
 
 [[feature]]
-  icon = "python"
+  icon = "aws"
   icon_pack = "fab"
-  name = "Jupyter"
+  name = "AWS"
   description = ""
 
 [[feature]]
