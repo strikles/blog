@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Opython"
-summary: "openholdem python add-on dll"
+summary: "OpenHoldem python add-on user dll"
 authors: []
 tags: []
 categories: []
