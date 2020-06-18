@@ -34,4 +34,6 @@ projects: []
 
 00:07am - Attempt to force castration via noxious stimuli focused on my genitals.
 
-00:08am - Attempt to force castration via noxious stimuli focused on my genitals.
+00:08am - attempt to force castration via noxious stimuli focused on my genitals.
+
+00:09am - attempt to force castration via noxious stimuli focused on my genitals.
