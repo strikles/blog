@@ -7,3 +7,5 @@ public/
 
 # MAC 
 .DS_Store
+
+*.swp
