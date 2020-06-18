@@ -57,3 +57,5 @@ projects: []
 15:30pm - Attempt to force castration via noxious stimuli focused on my genitals.
 
 19:20pm - Forced to hear and feel noxious oscillatory stimuli payloads focused on my inner ears simulating the rhythm of masturbation to create a negative cumulative effect combined with noxious payloads to attempt to force me to stab myself in the right ear with a screwdriver.
+
+20:30pm - Attempt to force tongue self-mutilation by inducing forced tongue involuntary movements via echolaia and nfcc being forced to hear repeated vocal payloads focused on my ears. 

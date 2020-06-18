@@ -15,8 +15,8 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "project-diagram"
-  icon_pack = "fab"
+  icon = "list-ol"
+  icon_pack = "fas"
   name = "Algorithms & data Structures"
   description = ""
 
