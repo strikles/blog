@@ -55,3 +55,5 @@ projects: []
 14:14pm - Forced to hear and feel the sonic payload of someone spitting as an illegal sentence issued by the Portuguese Police and the Dutch Police (on New Years eve 2017) focused on my inner ear and the entire cranial box modulated with high amplitude and distortion in order to produce a burst that results in loss of motor coordination, violation of my right to thought continuity along with forgetting what i am doing and motor/nervous spasms to create a cumulative effect and force entry into a psychotic state.
 
 15:30pm - Attempt to force castration via noxious stimuli focused on my genitals.
+
+19:20pm - Forced to hear and feel noxious oscillatory stimuli payloads focused on my inner ears simulating the rhythm of masturbation to create a negative cumulative effect combined with noxious payloads to attempt to force me to stab myself in the right ear with a screwdriver.
