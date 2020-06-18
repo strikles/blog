@@ -98,6 +98,16 @@ projects: []
 
 22:31pm - Attempt to force castration via noxious stimuli focused on my genitals.
 
-21:32pm - Attempt to force me to commit suicide by stabbing myself in the ear with a screwdriver by forcing me to feel repetitive nociceptive stimuli in my right inner ear.
+22:32pm - Attempt to force me to commit suicide by stabbing myself in the ear with a screwdriver by forcing me to feel repetitive nociceptive stimuli in my right inner ear.
 
-21:34pm - Attempt to force me to commit suicide by stabbing myself in the ear with a screwdriver by forcing me to feel repetitive nociceptive stimuli in my right inner ear.
+22:34pm - Attempt to force me to commit suicide by stabbing myself in the ear with a screwdriver by forcing me to feel repetitive nociceptive stimuli in my right inner ear.
+
+22:52pm - Forced to hear and feel the sonic payload of someone spitting as an illegal sentence issued by the Portuguese Police and the Dutch Police (on New Years eve 2017) focused on my inner ear and the entire cranial box modulated with high amplitude and distortion in order to produce a burst that results in loss of motor coordination, violation of my right to thought continuity along with forgetting what i am doing and motor/nervous spasms to create a cumulative effect and force entry into a psychotic state.
+
+22:53pm - Attempt to force me to commit suicide by stabbing myself in the ear with a screwdriver by forcing me to feel repetitive nociceptive stimuli in my right inner ear.
+
+22:53pm - Attempt to force me to commit suicide by stabbing myself in the ear with a screwdriver by forcing me to feel repetitive nociceptive stimuli in my right inner ear.
+
+22:53pm - Attempt to force me to commit suicide by stabbing myself in the ear with a screwdriver by forcing me to feel repetitive nociceptive stimuli in my right inner ear.
+
+22:54pm - Attempt to force me to commit suicide by stabbing myself in the ear with a screwdriver by forcing me to feel repetitive nociceptive stimuli in my right inner ear.
