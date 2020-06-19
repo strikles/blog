@@ -11,44 +11,26 @@ interval = 10000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "calc(100vh - 70px)"
+height = "calc(100vh - 60px)"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Black Lives Matter"
-  content = "I am center aligned :smile:"
+  title = "Urgent: Fund the Movement"
+  content = "Please support the movement and the ongoing fight to end state-sanctioned violence, liberate Black people, and end white supremacy forever."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "yellow"  # An HTML color value.
-  overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_color = "black"  # An HTML color value.
+  # overlay_img = "logo-black-lives-matter.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Get Academic"
-  cta_url = "https://sourcethemes.com/academic/"
+  cta_label = "Black Lives Matter"
+  cta_url = "https://secure.actblue.com/donate/ms_blm_homepage_2019"
   cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
-
-[[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
-  align = "center"
-
-  overlay_color = "#FFF"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
-  align = "center"
-
-  overlay_color = "#000"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  cta_icon = "heart"
 +++
