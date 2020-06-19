@@ -121,3 +121,5 @@ projects: []
 10:40am - Forced to hear and feel noxious oscillatory stimuli payloads focused on my inner ears simulating the rhythm of masturbation to create a negative cumulative effect combined with noxious payloads focused on my genitals so that I am forced to type with 2 fingers complaining about the torture procedure me and my family are subjected to whilst a large number of people watches satisfy the deep and dark emasculation desires of Jasper Kums (Eenvoudmedia) who spread all over Amsterdam (via TBWA - Amsterdam) several rumors, including that I don't have what it takes to be a developer since I can't touch-type with these people sabotaging every attempt at self-improvement or learning in order to provide adequate content for their grand spectacle of human degradation.
 
 10:40am - attempt to force castration via noxious stimuli focused on my genitals.
+
+10:44am - Attempt to force me to commit suicide by stabbing myself in the ear with a screwdriver by forcing me to feel repetitive nociceptive stimuli in my right inner ear.
