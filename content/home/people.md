@@ -25,6 +25,7 @@ subtitle = ""
   				"Eenvoudmedia",
   				"Quby",
   				"Neighbors",
+  				"Remax",
 				]
 
 [design]
