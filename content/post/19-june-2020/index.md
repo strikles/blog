@@ -155,3 +155,7 @@ projects: []
 16:31pm - attempt to force castration via noxious stimuli focused on my genitals whilst I'm eating.
 
 16:35pm - attempt to force castration via noxious stimuli focused on my genitals whilst I'm eating.
+
+16:39pm - attempt to force castration via noxious stimuli focused on my genitals whilst I'm eating.
+
+16:43pm - As soon as I returned home I am being forced to feel oscillatory noxious stimuli focused on my inner ear simulating the rhythm of masturbation to force me into a psychotic episode. Writing the previous sentence gave origin to noxious stimuli focused on my perineum as a both a threat, a way to try to instigate fear and an illegal sentence to remind me of the many times intercourse has been sabotaged via forced perineum contractions to force premature ejaculation and magnify the negative psychological effect that has been carefully curated and crafted since I was 18 (and magnified since my return from holiday in Greece in 2015 whilst working at Eenvoudmedia, and then again on my birthday in 2016 whilst working for Quby) to force tongue and genital self-mutilation followed by suicide in front of my family at some point in my life.
