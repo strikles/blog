@@ -203,3 +203,5 @@ projects: []
 15:22pm - Forced to feel high frequency stimuli all overt my lower body and palms of my hands and feet to induce hyupersensibility making it easier for the individuals torturing me to induce a castration or genital self-mutilatyion outcome via a cumulative effect of continuous noxious stimuli focused on my genitals.
 
 15:26pm - Illegal sentence of forcing me to feel high frequency vibrotactile stimuli focused on the palms of my hands and feet to induce hypersensitivity and hyperhidrosis combined with more noxious stimuli with increased amplitude and duration focused on my genitals in order to force me to think about the many times premature ejaculation was forced upon me to sabotage intercourse since I was 18 and to force a genital self-mutilation followed by suicide.
+
+15:26pm - Forced to feel high frequency stimuli all overt my lower body and palms of my hands and feet to induce hyupersensibility making it easier for the individuals torturing me to induce a castration or genital self-mutilatyion outcome via a cumulative effect of continuous noxious stimuli focused on my genitals.
