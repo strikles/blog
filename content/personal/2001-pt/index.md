@@ -44,12 +44,13 @@ in his anus and stating he had mental problems and should see a
 psychiatrist whilst Ricardo Reino was forcefully communicating with
 me via synthetic telepathy.**
 
-<p><strong>Whilst under no-touch sensory overload at the house of
+Whilst under no-touch sensory overload at the house of
 my gf at the time I lost my temper and broke a window in her house.
 We split up, she left my things at my door. Soon after my father
 suggested I see a psychiatrist and I was coerced/intimidated via
 synthetic telepathy on what to report ("tell your doctor what
 happened and that you are hearing voices"), forensic psychiatrist
+
 <a href=
 "https://www.linkedin.com/in/ant%C3%B3nio-gamito-67015584/">Antonio
 Gamito</a> leading to a synthetic psychiatric profile.</strong></p>
