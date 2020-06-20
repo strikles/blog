@@ -45,4 +45,5 @@ email: ""
 user_groups:
   - Constança Bettencourt
   - Portuguese Politicians
+  - Portuguese Parliament
 ---
