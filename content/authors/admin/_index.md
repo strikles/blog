@@ -71,10 +71,6 @@ user_groups:
   - Visitors
 ---
 
-$$
-\varnothing
-$$
-
 As a subject under torture (SUT) I regret to inform you I am unable to conduct all business.
 
 The torture methodology (i.e. - remote sensory overload\*) consists of remote control of mechanoreceptors and nociceptors, abuse of synthetic telepathy and other toxic external stimuli specifically optimized and combined for maximum impact in order to force synthetic psychotic episodes and induce various forms of self-mutilation (mostly tongue and genitalia), culminating in creating a transsexual with suicidal tendencies as a moral lesson in order for me to learn "where my place in society is".
