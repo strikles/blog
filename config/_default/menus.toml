@@ -25,7 +25,12 @@
 
 [[main]]
   name = "Meet my Executioners"
-  url = "#people"
+  url = "#executioners"
+  weight = 50
+
+[[main]]
+  name = "Authors"
+  url = "#authors"
   weight = 50
 
 [[main]]

@@ -3,7 +3,7 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 1 # Order that this section will appear.
 
 title = "Urgent: Fund the Movement"
 
@@ -52,4 +52,3 @@ hero_media = "logo-black-lives-matter.png"
 +++
 
 Please support the movement and the ongoing fight to end state-sanctioned violence, liberate Black people, and end white supremacy forever.
-
