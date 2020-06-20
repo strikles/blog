@@ -78,5 +78,5 @@ The torture methodology (i.e. - remote sensory overload\*) consists of remote co
 I also believe the reason behind this is a cumulative retribution effect caused by infinitesimal negative motives, leading to the treatment I endure i.e. popular lynching much like the tyranny of small decisions so that perhaps in the end I would get to hear some useless moral lesson such as "You messed with the wrong people" (or something along those lines).
 
 $$
-\odot \supseteq \cup_{T \in U} T
+\odot \supseteq \cup_{t \in U} t
 $$
