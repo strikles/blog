@@ -47,3 +47,10 @@ user_groups:
   - Tapada do Mocho
   - Ivo Francisco
 ---
+
+>"Ex-friend".
+>"Fala com o Ivo".
+>"Conheces um cromo do Xadrês chamado André ? Volta e meia é internado pelos próprios pais".
+>"Sérgio - Rato"
+
+Gonçalo Bandeira Duarte
