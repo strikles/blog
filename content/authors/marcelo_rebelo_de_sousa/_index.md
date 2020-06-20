@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Ana Sofia Bettencourt
+title: Marcelo Rebelo De Sousa 
 
 # Username (this should match the folder name)
 authors:
-  - ana_sofia_bettencourt
+  - marcelo_rebelo_de_sousa
 
 # Is this the primary user of the site?
 superuser: no
@@ -43,6 +43,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Constança Bettencourt
-  - Portuguese Parliament
+  - Portuguese Politicians
 ---

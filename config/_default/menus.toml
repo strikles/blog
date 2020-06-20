@@ -19,7 +19,7 @@
   weight = 20
 
 [[main]]
-  name = "Employment Hystory"
+  name = "Employment History"
   url = "#experience_work"
   weight = 25
 
