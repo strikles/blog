@@ -59,3 +59,8 @@ projects: []
 10:55am - attempt to force castration via noxious stimuli focused on my genitals.
 
 11:11am - attempt to force castration via noxious stimuli focused on my genitals.
+
+12:20pm - Attempt to induce a synthetic psychotic episode by forcing me to hear vocal payloads alluding to Queen Maxima of the Netherlands.
+
+12:20pm - Attempt to induce a synthetic psychotic episode by forcing me to hear vocal payloads alluding to the father of Rui Ricardo Borges Marques Sabino Reino.
+

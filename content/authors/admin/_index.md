@@ -21,13 +21,13 @@ organizations:
 bio: My interests include music, software development, human rights, animal rights, bioethics, neuroethics and putting an end to loss of personal freedom, all forms of discrimination, slavery, torture and all spectacles of human degradation (some consisting of forcing self-mutilation in front of a crowd for the purposes of self-emasculation, giving macabre moral lessons about social stratification, preserving status quo and perpetuating in-group bias).
 
 Others interests:
-  - Machine Learning 
+  - Machine Learning
   - Dynamical Systems
-  - Algorithms & Data Structures 
-  - Algorithmic Game Theory 
-  - Probabilistic Graphical Models 
+  - Algorithms & Data Structures
+  - Algorithmic Game Theory
+  - Probabilistic Graphical Models
   - Learning Rust
-  - Learning AWS integration with iOS/Android apps.  
+  - Learning AWS integration with iOS/Android apps.
 
 education:
   courses:
@@ -71,8 +71,16 @@ user_groups:
   - Visitors
 ---
 
+$$
+\varnothing
+$$
+
 As a subject under torture (SUT) I regret to inform you I am unable to conduct all business.
 
-The torture methodology (i.e. - remote sensory overload\*) consists of remote control of mechanoreceptors and nociceptors, abuse of synthetic telepathy and other toxic external stimuli specifically optimized and combined for maximum impact in order to force synthetic psychotic episodes and induce various forms of self-mutilation (mostly tongue and genitalia), culminating in creating a transsexual with suicidal tendencies as a moral lesson in order for me to learn "where my place in society is".   
+The torture methodology (i.e. - remote sensory overload\*) consists of remote control of mechanoreceptors and nociceptors, abuse of synthetic telepathy and other toxic external stimuli specifically optimized and combined for maximum impact in order to force synthetic psychotic episodes and induce various forms of self-mutilation (mostly tongue and genitalia), culminating in creating a transsexual with suicidal tendencies as a moral lesson in order for me to learn "where my place in society is".
 
 I also believe the reason behind this is a cumulative retribution effect caused by infinitesimal negative motives, leading to the treatment I endure i.e. popular lynching much like the tyranny of small decisions so that perhaps in the end I would get to hear some useless moral lesson such as "You messed with the wrong people" (or something along those lines).
+
+$$
+G \supset \cup_{T \in U}
+$$
