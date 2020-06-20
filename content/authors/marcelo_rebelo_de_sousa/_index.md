@@ -45,3 +45,8 @@ email: ""
 user_groups:
   - Portuguese Politicians
 ---
+
+>"Tens um problema com a tua escola".
+>"Toma a tua medicação e vota no PSD".
+
+Marcelo Rebelo de Sousa
