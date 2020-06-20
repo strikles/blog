@@ -18,6 +18,7 @@ subtitle = ""
   				#"Portuguese Politicians",
   				#"Constança Bettencourt",
   				"Tapada do Mocho",
+  				"Ivo Francisco",
   				"Eenvoudmedia",
   				"Quby",
   				"Neighbors",
