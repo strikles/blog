@@ -363,3 +363,5 @@ projects: []
 23:24pm - Attempt to turn me against psiquiatrists in general by forcing me to hear the following verbal payload focused on my ears "O psiquiatra quer foder-te á força toda" as I am forced to feel vibrotactile sensations all over my body and mostly my genitals.
 
 23:31pm - Forced to hear and feel the sonic payload of someone spitting as an illegal sentence issued by the Portuguese Police and the Dutch Police (on New Years eve 2017) focused on my inner ear and the entire cranial box modulated with high amplitude and distortion in order to produce a burst that results in loss of motor coordination, violation of my right to thought continuity along with forgetting what i am doing and motor/nervous spasms to create a cumulative effect and force entry into a psychotic state.
+
+23:44pm - Attempt to induce a synthetic psychotic episode by forcing me to hear vocal payloads alluding to Queen Maxima of the Netherlands.
