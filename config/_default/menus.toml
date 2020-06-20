@@ -6,12 +6,22 @@
 [[main]]
   name = "About"
   url = "#about"
+  weight = 1
+
+[[main]]
+  name = "Coursera"
+  url = "#courses"
   weight = 10
 
 [[main]]
   name = "Projects"
-  url = "#github_projects"
+  url = "#projects_github"
   weight = 20
+
+[[main]]
+  name = "Employment Hystory"
+  url = "#experience_work"
+  weight = 25
 
 [[main]]
   name = "Torture Logs"
@@ -25,13 +35,13 @@
 
 [[main]]
   name = "Meet my Executioners"
-  url = "#executioners"
+  url = "#people_executioners"
   weight = 50
 
 [[main]]
-  name = "Authors"
-  url = "#authors"
-  weight = 50
+  name = "Appendix"
+  url = "#experience_personal"
+  weight = 55
 
 [[main]]
   name = "Contact"
