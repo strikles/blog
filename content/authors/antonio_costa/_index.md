@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Paulo Varanda 
+title: Marcelo Rebelo De Sousa 
 
 # Username (this should match the folder name)
 authors:
-  - paulo_varanda
+  - marcelo_rebelo_de_sousa
 
 # Is this the primary user of the site?
 superuser: no
@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-  - name: 
+  - name:
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -43,10 +43,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Colégio Militar 
+  - Portuguese Politicians
 ---
-
-> “O problema é que sonhamos... tudo seria mais inteligível e sancionado por uma única redoma Moral se assim não voássemos. Ainda bem que sonhamos!”
-
-Paulo Varanda
-

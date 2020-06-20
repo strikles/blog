@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tito Eurico Miranda Fernandes 
+title: Tito Eurico Miranda Fernandes
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-  - name: 
+  - name:
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -45,3 +45,13 @@ email: ""
 user_groups:
   - Colégio Militar
 ---
+
+> “Os animais conhecem os seus limites;  
+> Um urso não tentará voar,  
+> Um cavalo doente debater-se-á antes de saltar a grade de cinco barras.  
+> Um cão, por instinto, passa de longe se vê um poço fundo e largo demais,  
+> Mas o homem, cremos nós, é aquela criatura que, levada pela loucura, combate a natureza;  
+> Que ao grito clamoroso "Pára!", obstinadamente prossegue;  
+> E que absurdamente se empenha em realizar aquilo para que o seu génio menos se inclina”  
+
+Swift apud Peter, 1972, p. 15
