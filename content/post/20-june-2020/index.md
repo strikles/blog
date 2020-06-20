@@ -349,3 +349,9 @@ projects: []
 21:02pm - Attempt to force me to cut off my ear as a form of degradation/humiliation in reference to Van Gogh, for choosing to live in the Netherlands instead of allowing the Portuguese fascist scum torturing me to force me to commit suicide as a transsexual in front of my mother.
 
 21:03pm - Illegal sentence by forcing me to feel high frequency vibrotactile stimuli focused on the palms of my hands and feet to induce hypersensitivity and hyperhidrosis combined with more noxious stimuli with increased amplitude and duration focused on my genitals in order to force me to think about the many times premature ejaculation was forced upon me to sabotage intercourse since I was 18 and to force a genital self-mutilation followed by suicide instead of allowing me take a shower.
+
+21:08pm - Attempt to force me to cut off my ear as a form of degradation/humiliation in reference to Van Gogh, for choosing to live in the Netherlands instead of allowing the Portuguese fascist scum torturing me to force me to commit suicide as a transsexual in front of my mother.
+
+21:09pm - Attempt to force me to cut off my ear as a form of degradation/humiliation in reference to Van Gogh, for choosing to live in the Netherlands instead of allowing the Portuguese fascist scum torturing me to force me to commit suicide as a transsexual in front of my mother.
+
+21:10pm - Illegal sentence by forcing me to feel high frequency vibrotactile stimuli focused on the palms of my hands and feet to induce hypersensitivity and hyperhidrosis combined with more noxious stimuli with increased amplitude and duration focused on my genitals in order to force me to think about the many times premature ejaculation was forced upon me to sabotage intercourse since I was 18 and to force a genital self-mutilation followed by suicide instead of allowing me take a shower.
