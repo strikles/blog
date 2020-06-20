@@ -46,6 +46,8 @@ user_groups:
   - Quby 
 ---
 
-"Trabalhinho!"
+>"Estou a foder com a rainha da Holanda!"
+>"Vou-lhe dar mais uma!"
+>"Trabalhinho!"
 
 Gonçalo Carvalho
