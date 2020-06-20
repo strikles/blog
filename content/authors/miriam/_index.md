@@ -45,3 +45,9 @@ email: ""
 user_groups:
   - Constança Bettencourt
 ---
+
+>"Encontrei-te!"
+>"Vou-te mostrar como as coisas funcionam!"
+>"Eu tenho um problema com punheteiros!"
+
+Miriam
