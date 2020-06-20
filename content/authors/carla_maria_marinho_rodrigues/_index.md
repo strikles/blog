@@ -46,3 +46,7 @@ user_groups:
   - Ivo Francisco 
 ---
 
+>"Nunca esperei que te fodesses pela cabeça"
+>"Foi o Armandinho que te roubou o cão"
+
+Carla Maria Marinho Rodrigues
