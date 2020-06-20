@@ -45,3 +45,8 @@ email: ""
 user_groups:
   - Tapada do Mocho
 ---
+
+> "Eu rebento com eles..."
+> "Fartámo-nos de rir..."
+
+Barbara Santos
