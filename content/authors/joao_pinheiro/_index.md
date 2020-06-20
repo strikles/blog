@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Gonçalo Bandeira Duarte
+title: João Pinheiro 
 
 # Username (this should match the folder name)
 authors:
-  - goncalo_bandeira_duarte
+  - joao_pinheiro
 
 # Is this the primary user of the site?
 superuser: no
@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-  - name:
+  - name: 
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -43,7 +43,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-
-  - Tapada do Mocho
-  - Ivo Francisco
+  - Colégio Militar
 ---
+
+>"Flor que nasce torta não se endireita!"
+
+João Pinheiro
