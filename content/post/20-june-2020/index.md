@@ -37,3 +37,5 @@ projects: []
 07:18am - attempt to force castration via noxious stimuli focused on my genitals.
 
 07:19am - Attempt to force me to commit suicide by stabbing myself in the ear with a screwdriver by forcing me to feel repetitive nociceptive stimuli in my inner ear.
+
+07:19am - Attempt to force me to commit suicide by stabbing myself in the ear with a screwdriver by forcing me to feel repetitive nociceptive stimuli in my left inner ear.
