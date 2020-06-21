@@ -32,7 +32,7 @@ projects: []
 
 08:11pm - Attempt to force me to commit suicide as soon as I woke up by stabbing myself in the ear with a screwdriver by forcing me to feel repetitive nociceptive stimuli in my left inner ear.
 
-08:27am - Illegal sentence of forcing me to feel high frequency vibrotactile stimuli focused on the palms of my hands and feet to induce hypersensitivity and hyperhidrosis combined with more noxious stimuli with increased amplitude and duration focused on my genitals in order to force me to think about the many times premature ejaculation was forced upon me to sabotage intercourse since I was 18 and to force a genital self-mutilation followed by suicide.
+08:27am - Illegal sentence of forcing me to stay at home instead of allowing me to go outside by forcing me to feel high frequency vibrotactile stimuli focused on the palms of my hands and feet to induce hypersensitivity and hyperhidrosis combined with more noxious stimuli with increased amplitude and duration focused on my genitals in order to force me to think about the many times premature ejaculation was forced upon me to sabotage intercourse since I was 18 and to force a genital self-mutilation followed by suicide.
 
 08:27am - Illegal sentence of forcing me to feel high frequency vibrotactile stimuli focused on the palms of my hands and feet to induce hypersensitivity and hyperhidrosis combined with more noxious stimuli with increased amplitude and duration focused on my genitals in order to force me to think about the many times premature ejaculation was forced upon me to sabotage intercourse since I was 18 and to force a genital self-mutilation followed by suicide.
 
