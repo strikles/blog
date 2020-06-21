@@ -3,7 +3,7 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
-weight = 3  # Order that this section will appear.
+weight = 5  # Order that this section will appear.
 
 title = "Your support can create amazing change"
 
@@ -52,4 +52,3 @@ hero_media = "ijm.png"
 +++
 
 Give children, women and men the safety and freedom they deserve. You can make an impact in the fight to end slavery until all are free.
-
