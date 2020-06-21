@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Abel 
+title: Abel
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-  - name: 
+  - name:
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -43,5 +43,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Quby
+  - Colégio Militar
+  - Neighbors
 ---
