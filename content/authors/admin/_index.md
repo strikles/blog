@@ -73,7 +73,7 @@ user_groups:
 
 As a subject under torture (SUT) I regret to inform you I am unable to conduct all business.
 
-The torture methodology (i.e. - remote sensory overload\*) consists of remote control of mechanoreceptors and nociceptors, abuse of synthetic telepathy and other toxic external stimuli specifically optimized and combined for maximum impact in order to force synthetic psychotic episodes and induce gender dysphoria, leading to castration various forms of self-mutilation (mostly ears, tongue and genitalia), culminating in creating a transsexual with suicidal tendencies as a moral lesson in order for me to learn "where my place in society is".
+The torture methodology (i.e. - remote sensory overload\*) consists of remote control of mechanoreceptors and nociceptors in order to force the feeling of vibotactile sensations, perineum contractions, noise payloads focused on the inner ear / cochlea, abuse of synthetic telepathy and other toxic external stimuli specifically optimized and combined for maximum impact in order to force and maintain synthetic psychotic episodes and induce gender dysphoria, leading to castration, various forms of self-mutilation (mostly ears, tongue and genitalia), culminating inumerous scenes of domestic violence, political abuse of psychiatry and in my case attempting to create a transsexual with suicidal tendencies as a moral lesson in order for me to learn **"where my place in society is"**.
 
 I also believe the reason behind this is a cumulative retribution effect caused by infinitesimal negative motives, leading to the treatment I endure i.e. popular lynching much like the tyranny of small decisions so that perhaps in the end I would get to hear some useless moral lesson such as "You messed with the wrong people".
 
