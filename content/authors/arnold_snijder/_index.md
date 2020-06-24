@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Jurgen Braam
+title: Arnold Snijder 
 
 # Username (this should match the folder name)
 authors:
-  - jurgen_braam
+  - arnold_snijder
 
 # Is this the primary user of the site?
 superuser: no
